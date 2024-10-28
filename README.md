@@ -8,7 +8,6 @@ This repository contains a project for predicting passenger survival on the Tita
 - [Installation](#installation)
 - [Methodology](#methodology)
 - [Results](#results)
-- [Contributing](#contributing)
 
 ## Project Overview
 The main objective of this project is to predict whether a passenger survived the Titanic disaster based on a variety of features like age, gender, and socio-economic class. This project serves as a practical introduction to data science and machine learning techniques, covering steps like data preprocessing, exploratory data analysis, feature engineering, model selection, and evaluation.
@@ -35,5 +34,3 @@ The project is divided into several key steps:
 ## Results
 This project has yielded a predictive model with an accuracy score of approximately ~75% on the test dataset.
 
-## Contributing
-Feel free to fork this repository, open issues, and submit pull requests for improvements.
